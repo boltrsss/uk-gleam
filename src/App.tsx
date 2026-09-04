@@ -142,7 +142,7 @@ export default function App() {
                 "So what do you use?" I asked.
               </p>
 
-              <h2 className="text-4xl lg:text-[2.75rem] font-black text-gray-900 mt-16 mb-8 font-serif leading-tight">A £22 powder.</h2>
+              <h2 className="text-4xl lg:text-[2.75rem] font-black text-gray-900 mt-16 mb-8 font-serif leading-tight">A £29 powder.</h2>
 
               <p>
                 She said it the way you'd say you use a certain brand of dish soap. No drama.
@@ -195,7 +195,7 @@ export default function App() {
               </p>
 
               <p>
-                The powder: £22.99. One jar lasts about two months.
+                The powder: £29.99. One jar lasts about two months.
               </p>
 
               <p>
@@ -306,7 +306,7 @@ export default function App() {
               </p>
 
               <p>
-                <a href="https://go.consumerskills.org/click" className="font-bold text-green-700 hover:text-green-800 underline decoration-[3px] underline-offset-4 decoration-green-200 hover:decoration-green-500 transition-colors">Gleam Mint</a> is £22.99. I order from their website.
+                <a href="https://go.consumerskills.org/click" className="font-bold text-green-700 hover:text-green-800 underline decoration-[3px] underline-offset-4 decoration-green-200 hover:decoration-green-500 transition-colors">Gleam Mint</a> is £29.99. I order from their website.
               </p>
 
               <div className="my-10 flex justify-center text-center">
@@ -322,7 +322,7 @@ export default function App() {
               </p>
 
               <p>
-                They also back it with a money-back guarantee. So if it doesn't work for you, you're not out anything. At £22.99 with a guarantee, I honestly don't know why anyone would still book the £400 appointment first.
+                They also back it with a money-back guarantee. So if it doesn't work for you, you're not out anything. At £29.99 with a guarantee, I honestly don't know why anyone would still book the £400 appointment first.
               </p>
 
               <p className="font-black text-2xl text-gray-900 my-10">
