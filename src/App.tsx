@@ -250,7 +250,7 @@ export default function App() {
               </p>
 
               <div className="my-10 text-center flex justify-center">
-                <video src="/images/gleam-mint-1.png" controls autoPlay loop muted playsInline className="max-w-full rounded-xl shadow-md mx-auto" />
+                <img src="/images/gleam-mint-1.png" controls autoPlay loop muted playsInline className="max-w-full rounded-xl shadow-md mx-auto" />
               </div>
 
               <h2 className="text-3xl lg:text-4xl font-black text-gray-900 mt-16 mb-8 tracking-tight font-serif">Six months later.</h2>
